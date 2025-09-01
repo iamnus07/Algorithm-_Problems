@@ -60,3 +60,19 @@ Understanding and implementing these algorithms helps you:
    git clone https://github.com/iamnus07/Algorithm-_Problems.git
    cd Algorithm-_Problems
    ```
+
+   Project Goals:
+
+1. Strengthen algorithmic intuition through direct implementation.
+
+1. Illustrate each algorithm’s practical relevance.
+
+1. Provide a hands-on, educational resource for both self-study and classroom use.
+
+1. Slides, Visualizations, and Contributions
+
+1. Feel free to create visual diagrams or slides to visually explain the algorithms.
+
+1. Contributions—whether improving code, adding new algorithms, or optimizing existing ones—are welcome!
+
+Happy coding and exploring efficient algorithms!
