@@ -1,23 +1,24 @@
-# Algorithm-\_Problems
-
 # Algorithm Problems Repository
 
-![Algorithm Flowchart Diagram](/img/1.png)
+![Algorithm Flowchart Diagram](./img/1.png)
 
-A curated collection of common algorithms implemented in C++. Each folder or file in this repository contains a focused implementation—ranging from sorting and searching to graph traversal and dynamic programming.
-
-## Why These Algorithms Matter
-
-Understanding and implementing these algorithms helps you:
-
-- Obtain a strong foundation in algorithmic thinking and problem-solving.
-- Improve runtime and memory efficiency.
-- Prepare more effectively for technical interviews and coding competitions.
-- Build a toolkit for solving real-world computational problems.
+A curated collection of common algorithms implemented in **C++**.  
+This repository serves as a learning resource for sorting, searching, graph traversal, and dynamic programming problems.
 
 ---
 
-## Algorithm Portfolio with Real-World Examples
+## 📌 Why These Algorithms Matter
+
+Understanding and implementing these algorithms helps you:
+
+- Build a strong foundation in **algorithmic thinking** and problem-solving.
+- Improve **runtime efficiency** and **memory usage** in programs.
+- Prepare effectively for **technical interviews** and coding competitions.
+- Gain practical knowledge for **real-world problem solving**.
+
+---
+
+## 📚 Algorithm Portfolio with Real-World Examples
 
 | Algorithm                             | Why It’s Important                                                             | Real-Life Example                                                  |
 | ------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
@@ -34,45 +35,50 @@ Understanding and implementing these algorithms helps you:
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
 /
-├── BFS.cpp, DFS.cpp – Graph traversal algorithms
+├── BFS.cpp – Breadth First Search
+├── DFS.cpp – Depth First Search
 ├── Bubble sort.cpp – Naive sorting technique
 ├── Insertion sort.cpp
 ├── Selection sort.cpp
 ├── Merge sort.cpp
 ├── Quick sort.cpp
-├── Counting Sort .cpp
+├── Counting Sort.cpp
 ├── Knapsack01.cpp – 0/1 Knapsack problem
-├── Fractional Knapsack .CPP
+├── Fractional Knapsack.cpp
 ├── Lcs.cpp – Longest Common Subsequence
 ├── MCM.cpp – Matrix Chain Multiplication
 └── README.md – This document
 
----
-
-## How to Use This Repository
+## ⚙️ How to Use This Repository
 
 1. **Clone** the repository:
 
    ```bash
    git clone https://github.com/iamnus07/Algorithm-_Problems.git
    cd Algorithm-_Problems
+   Compile and run any .cpp file. Example with Merge Sort:
+
    ```
 
-   Project Goals:
+2. bash
+   Copy code
+   g++ "Merge sort.cpp" -o merge_sort
+   ./merge_sort
+   Experiment by modifying inputs and testing different scenarios.
+
+🎯 Project Goals
 
 1. Strengthen algorithmic intuition through direct implementation.
 
-1. Illustrate each algorithm’s practical relevance.
+2. Show the practical relevance of each algorithm.
 
-1. Provide a hands-on, educational resource for both self-study and classroom use.
+3. Provide a hands-on resource for self-study and classroom use.
 
-1. Slides, Visualizations, and Contributions
+🤝 Contributions
+You can create visual diagrams or slides to explain algorithms.
+Contributions—whether improving code, adding new algorithms, or optimizing existing ones—are highly welcome.
 
-1. Feel free to create visual diagrams or slides to visually explain the algorithms.
-
-1. Contributions—whether improving code, adding new algorithms, or optimizing existing ones—are welcome!
-
-Happy coding and exploring efficient algorithms!
+✨ Happy coding and exploring efficient algorithms! 🚀
